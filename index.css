@@ -9,7 +9,7 @@
 
 .f-principal {
     height: 500px;
-    background-image: url(public/assets/images/j5.jpg);
+    background-image: url(./public/assets/images/j5.jpg);
     background-size: cover;
     position: relative;
     background-position-y: 50px;
